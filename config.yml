@@ -1,4 +1,4 @@
-baseURL: "meetshah-blog.pages.dev"
+baseURL: "https://meetshah-blog.pages.dev/"
 languageCode: en-us
 title: Meet Shah
 theme: PaperMod
