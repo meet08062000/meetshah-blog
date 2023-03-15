@@ -22,7 +22,7 @@
             mutationsList.forEach(mutation => {
                 if (mutation.attributeName === "class") {
                     if (document.querySelector('.utterances-frame')) {
-                        const theme = mutation.target.classList.contains("dark-theme") ? 'github-dark' : 'github-light'
+                        const theme = mutation.target.classList.contains("dark") ? 'github-dark' : 'github-light'
                         const message = {
                             type: 'set-theme',
                             theme: theme
