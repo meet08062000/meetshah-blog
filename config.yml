@@ -51,3 +51,7 @@ params:
   ShowReadingTime: true
   ShowShareButtons: true
   comments: true
+  utteranc:
+    enable: true
+    repo: "meet08062000/meetshah-blog"
+    issueTerm: "pathname"
