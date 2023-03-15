@@ -1,6 +1,14 @@
 {{- /* Comments area start */ -}}
 {{- /* to add comments read => https://gohugo.io/content-management/comments/ */ -}}
-<script src="https://utteranc.es/client.js" repo="meet08062000/meetshah-blog" issue-term="pathname" theme="github-dark"
-    crossorigin="anonymous" async>
+<script src="https://utteranc.es/client.js" repo="meet08062000/meetshah-blog" issue-term="pathname"
+    theme="commentTheme()" crossorigin="anonymous" async>
     </script>
+<script>
+    const commentTheme = () => {
+        if (localStorage.getItem("pref-theme") === "dark") {
+            return "github-dark"
+        }
+        return "github-light"
+    }
+</script>
 {{- /* Comments area end */ -}}
