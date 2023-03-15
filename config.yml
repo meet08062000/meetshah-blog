@@ -21,6 +21,19 @@ menu:
       name: About
       url: /about/
       weight: 10
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
+
+fuseOpts:
+  isCaseSensitive: false
+  shouldSort: true
+  location: 0
+  distance: 1000
+  threshold: 0.4
+  minMatchCharLength: 0
+  keys: ["title", "permalink", "summary", "content"]
 
 outputs:
   home:
@@ -29,6 +42,7 @@ outputs:
     - JSON # is necessary
 
 params:
+  description: "This is a my blog where I write all the random thoughts I have!"
   defaultTheme: "dark"
   homeInfoParams:
     Title: "Hello Stranger"
@@ -40,18 +54,15 @@ params:
       url: "https://twitter.com"
     - name: github
       url: "https://github.com"
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowShareButtons: true
+  ShowWordCount: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
   comments: true
+  showtoc: true
+  tocopen: true
   utteranc:
     enable: true
     repo: "meet08062000/meetshah-blog"
