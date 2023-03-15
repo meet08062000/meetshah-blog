@@ -3,7 +3,7 @@
 <div class="comments">
     <script>
         // load utteranc comment
-        var getTheme = window.localStorage && window.localStorage.getItem("theme");
+        var getTheme = localStorage.getItem("pref-theme");
         getTheme = getTheme == null ? '{{$.Site.Params.defaultTheme}}' : getTheme;
 
         let theme = getTheme === 'dark' ? 'github-dark' : 'github-light';

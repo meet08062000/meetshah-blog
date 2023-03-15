@@ -29,6 +29,7 @@ outputs:
     - JSON # is necessary
 
 params:
+  defaultTheme: "dark"
   homeInfoParams:
     Title: "Hello Stranger"
     Content: Welcome to my blog!
