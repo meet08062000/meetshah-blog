@@ -42,7 +42,7 @@ outputs:
     - JSON # is necessary
 
 params:
-  description: "This is a my blog where I write all the random thoughts I have!"
+  description: "This is my blog where I write all the random thoughts I have!"
   defaultTheme: "dark"
   homeInfoParams:
     Title: "Hello Stranger"
