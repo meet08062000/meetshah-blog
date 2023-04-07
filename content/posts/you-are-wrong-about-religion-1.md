@@ -20,7 +20,7 @@ _(A student named Rohan is not praying along with others)_
 
 **Rohan**: Sorry teacher! But I don't like praying to God. 
 
-_(There was sudden silence in the class, everyone sensed some tension between Rohan and the teacher) _  
+_(There was sudden silence in the class, everyone sensed some tension between Rohan and the teacher)_  
 
 **Teacher _(sarcastically)_**: Why? Are you God yourself? Or do you think of yourself above God?  
 
