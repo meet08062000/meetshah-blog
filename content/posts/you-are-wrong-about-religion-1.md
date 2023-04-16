@@ -20,13 +20,13 @@ _(A student named Rohan is not praying along with others)_
 
 **Rohan**: Sorry teacher! But I don't like praying to God. 
 
-_(There was sudden silence in the class, everyone sensed some tension between Rohan and the teacher)_  
+_(There was sudden silence in the class)_  
 
-**Teacher _(sarcastically)_**: Why? Are you God yourself? Or do you think of yourself above God?  
+**Isha _(another student, sarcastically)_**: Why? Are you God yourself? Or do you think of yourself above God?  
 
 _(Students laughing)_  
 
-**Rohan**: See? That's what I don't like about God or religion in general, be it any religion. Why do our elders keep on telling us to follow religion or pray to God. There is no logic to it! Has anyone of them seen God? No! They are just blindly following what their elders taught them and now they expect us to blindly follow them!  
+**Rohan**: See? That's what I don't like about God or religion in general, be it any religion. Why does everyone keep on telling us to follow religion or pray to God. There is no logic to it! Has anyone seen God? No! They are just blindly following what their elders taught them and now they expect us to blindly follow them!  
 
 _(There was a pause. Another student named Jay interrupted)_  
 
@@ -40,7 +40,7 @@ _(The teacher was silent meanwhile and finally spoke)_
 A lot of theists ridicule atheists just to express their views, and vice versa, the atheists mock the theists to blindly follow religion without knowing what and why they are doing.  
 So let's do something different today, you guys can ask any questions you have about religion or God or anything related to that and I will try to answer them, let's make this a healthy debate, shall we? Okay, let's begin with Rohan, you can ask any question you want, you do not need to worry about anything, just ask. And let me make one thing clear, atheists are very logical people that think the correct way and ask the correct questions, it's just that it is a very sensitive topic they talk about and hence a lot of people get offended by it. Okay Rohan, go on.  
 
-**Rohan**: Why do i pray to god, who is he, isnt it senseless to make someone, who you dont even know or doesnt even exist, your everything?  
+**Rohan**: Why do I pray to god, who is he, isn't it senseless to dedicate your entire life to someone you don't even know or haven't even met once?  
 
 **Teacher**: That is a very valid and logical question. I would say just keep this religion/God debate aside, just think of everyday situations you face, a very real scenario, let's say you, despite all the efforts you made, failed an exam. You are very upset, your parents, teachers are scolding you. You need someone to talk to, whom do you go to?  
 
