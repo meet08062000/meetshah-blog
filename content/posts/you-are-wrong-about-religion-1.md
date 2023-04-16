@@ -1,6 +1,6 @@
 ---
 title: "You Are WRONG About Religion - Part 1"
-date: 2023-03-14T08:58:10+05:30
+date: 2023-04-09T08:58:10+05:30
 draft: false
 tags: ["philosophy", "religion"]
 categories: ["Philosophy"]
@@ -50,7 +50,7 @@ So let's do something different today, you guys can ask any questions you have a
 Let's consider another scenario, let's say there are 2 people, person A and person B. Both of them are very intelligent and score great marks, they grow very successful in their career. But person A is very religious. He thinks that all his accomplishments are by God's grace, he does not take credit for any of his achievements, on the other hand, person B is proud of his achievements and is rightly so. He should be proud, but that has lead to something that is not good. He has developed ego in his mind. He thinks that he is the smartest person and can accomplish anything, and that is dangerous. So faith in God helped person A to be humble. A lot of people think, "I cannot get overconfident or egoistic", but I'll tell you, seeing a lot of success and not developing an ego is the hardest task in the world! You at such a young age might feel that this is all rubbish, how can ego come into me, but that is what it is.  
 So, the point is, if you don't want to believe in God, that's okay, but then you will need to find another way of coping with these vices of the mind, be it depression, anxiety, sadness, or the 'I am on the top of the world' feeling. It's just that believing in God, for a lot of people, is an easy way out to cope with these problems.
 
-**Rohan**: Okay, accepted, you can believe in God, but there are so many other things that come with it that are so useless, illogical and senseless.
+**Rohan**: Okay, accepted, you can believe in God, but there are so many other things that come with it that are so illogical and senseless.
 
 **Teacher**: Like?
 
