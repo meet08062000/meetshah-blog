@@ -2,11 +2,11 @@
 title: "You Are WRONG About Religion - Part 3"
 date: 2023-04-23T08:58:10+05:30
 draft: false
-tags: ["philosophy", "religion"]
-categories: ["Philosophy"]
+tags: ["philosophy", "religion", "science-v-religion"]
+categories: ["You are wrong about religion"]
 ---
 
-Let's continue the story from where we had left off, if you have missed the first and second part, I would recommend you to first check those out and then come back here to read the part 3:
+Let's continue the story from where we had left off, if you have missed the [first](/posts/you-are-wrong-about-religion-1) and [second](/posts/you-are-wrong-about-religion-2) part, I would recommend you to first check those out and then come back here to read the part 3:
 
 **Teacher**: Good morning students!
   
@@ -71,4 +71,4 @@ _(Bell rings)_
 
 **Teacher**: I will surely answer this question too in the next lecture! Thankyou everyone!  
 
-So that was part 3 of this series, hope you enjoyed it, stay tuned for part 4 as well!
+So that was part 3 of this series, hope you enjoyed it, do check out [part-4](/posts/you-are-wrong-about-religion-4) as well!

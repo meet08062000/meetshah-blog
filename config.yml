@@ -48,17 +48,17 @@ params:
     Title: "Hello Stranger"
     Content: Welcome to my blog!
   socialIcons:
-    - name: facebook
-      url: "https://facebook.com"
-    - name: twitter
-      url: "https://twitter.com"
+    - name: instagram
+      url: "https://www.instagram.com/meet8june/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/meet-shah-3762011a0/"
     - name: github
-      url: "https://github.com"
+      url: "https://github.com/meet08062000"
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowShareButtons: true
   ShowWordCount: true
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   ShowCodeCopyButtons: true
   comments: true
   showtoc: true

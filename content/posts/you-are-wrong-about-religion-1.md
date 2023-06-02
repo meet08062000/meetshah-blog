@@ -2,8 +2,8 @@
 title: "You Are WRONG About Religion - Part 1"
 date: 2023-04-09T08:58:10+05:30
 draft: false
-tags: ["philosophy", "religion"]
-categories: ["Philosophy"]
+tags: ["philosophy", "religion", "science-v-religion"]
+categories: ["You are wrong about religion"]
 ---
 
 Whether you are on the atheist side or the theist side, you are wrong! The age old debate of science vs religion is still hot, and we all have faced it some day or another, here is my take on it in a dialogue form as a conversation between the students and teacher of a classroom:
@@ -60,4 +60,4 @@ _(Bell rings)_
 
 **Teacher**: Oh! The lecture time is over, okay, let's continue this discussion in the next lecture, I will surely answer your question then!
 
-So this was the part 1 of the 'You Are WRONG About Religion', the slightly clickbait-y name aside, if you have reached to the end of this blog, you should surely checkout the next one, you will find the link for the same here, when it releases. Please make sure to check that out if you enjoyed this one!
+So this was the part 1 of the 'You Are WRONG About Religion', the slightly clickbait-y name aside, if you have reached to the end of this blog, you should surely checkout the next one, [part-2](/posts/you-are-wrong-about-religion-2). Please make sure to check that out if you enjoyed this one!
