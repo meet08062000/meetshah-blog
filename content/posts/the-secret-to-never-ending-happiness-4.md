@@ -1,0 +1,23 @@
+---
+title: "The Secret to Never Ending Happiness - Part 4"
+date: 2023-07-08T08:58:10+05:30
+draft: false
+tags: ["philosophy", "happiness", "emotions"]
+categories: ["The Secret to Never Ending Happiness"]
+---
+
+This is the 4th part in my series, The Secret to Never Ending Happiness. If you are here for the first time, please make sure to check out the [part 1](/posts/the-secret-to-never-ending-happiness-1), [part 2](/posts/the-secret-to-never-ending-happiness-2) and [part 3](/posts/the-secret-to-never-ending-happiness-3) and then come back here. Let's continue the discussion as promised, let's talk about the the biggest pleasures you experience in life.  
+  
+Let's take an example of arguably the biggest happiness a person experiences in their whole lifetime, the birth of their child. Now you would say how would the state of mind affect the person's ability to be happy in a scenario like that. There is no way a person can't be happy on the birth of their child.  
+  
+Now you, the reader, if you are reading this blog, chances are that you are a modern, progressive person who is liberal and unorthodox. Let's think of the same scenario of the birth of a child with two perspectives. The first perspective, your own perspective, imagine you holding your first child for the first time. Imagine the emotions you would be going through. The feeling that I can do anything for this child. The feeling of immense love and joy. This is the happiest you have ever been. The second scenario, the perspective a person who believes that girl child is a curse for the family, a boy child is a blessing. Now if a girl child is born and you are holding your daughter for the first time, you will be happy, but the person who does not want a girl child will be sad and angry. I am not discussing on whether the thought process of the person is right or wrong in this blog. I am just saying that this 2nd person does not feel happy about a daughter being born. Same situation, different people, different state of minds, different results in terms of happiness.  
+  
+Let's consider another example, getting your first job. That is a big happiness as well, isn't it? Is everyone happy with the first job they get? No. Let's consider a salary of 12 lakh (1.2 million) INR per annum. This is a pretty good salary package for a fresher in India. Some people will be really happy getting that package because earning 1 lakh a month is kind of a big deal in India. But other people might not be as happy with the same 1 lakh per month because they think they deserve more. Once again, same situation, different people, different state of mind, different results in terms of happiness. That should be sufficient evidence to understand that even for the biggest pleasures experienced in life, we can be unhappy, it completely depends on the state of mind irrespective of the situation, whether the person will be happy or not.  
+  
+We discussed that the happiness that we get from achieving something big, from small things like eating a chocolate, from big things like child birth are all solely dependent on the state of mind, all the other types of happiness lie on a spectrum, the farthest ends of which are the smallest and the largest pleasures we experience and you will find that for any of them, the only thing that matters is the state of mind.  
+  
+All of that out of the way, it's now coming together, let's address the main topic of the blog, the title, the secret to never ending happiness! What do you need for never ending happiness? As you might've guessed already, a happy state of mind, always. You'd be like, 'That's the most ridiculous thing someone has ever said to me. How can someone be in a happy state of mind always? How is that person even a person if he can stay in the same state of mind always! How is that person different from a robot?'  
+  
+I agree to your point, but what if I tell you that there are people, on earth, that are practicing this, at least to some extent, on a daily basis? You'd obviously disagree. Now I am about to make a statement that is controversial, most of you might not agree with it, but let me say it outright! Religious monks are the happiest people on the planet. You'd go like 'Ah! Here we go again! Another andh bhakt (blind devotee)'. I understand your reaction to this statement, but I do have good reasons to believe this. And as you might've guessed again, that along with the secret to our happiness and its relation to placebo will be covered in the next part of this series.  
+
+That was the part 4 of the blog, a short one, ended on a controversial, note. Please stay tuned for part 5 where I justify my statement. Until then, Ta-Ta.  
