@@ -20,4 +20,4 @@ All of that out of the way, it's now coming together, let's address the main top
   
 I agree to your point, but what if I tell you that there are people, on earth, that are practicing this, at least to some extent, on a daily basis? You'd obviously disagree. Now I am about to make a statement that is controversial, most of you might not agree with it, but let me say it outright! Religious monks are the happiest people on the planet. You'd go like 'Ah! Here we go again! Another andh bhakt (blind devotee)'. I understand your reaction to this statement, but I do have good reasons to believe this. And as you might've guessed again, that along with the secret to our happiness and its relation to placebo will be covered in the next part of this series.  
 
-That was the part 4 of the blog, a short one, ended on a controversial, note. Please stay tuned for part 5 where I justify my statement. Until then, Ta-Ta.  
+That was the part 4 of the blog, a short one, ended on a controversial, note. Please check out [part 5](/posts/the-secret-to-never-ending-happiness-5) where I justify my statement. Until then, Ta-Ta.  
