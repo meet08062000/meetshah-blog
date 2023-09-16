@@ -8,7 +8,7 @@ noComment: true
 showWordCount: false
 ---
 
-This website was created with the static site generator [Hugo](https://gohugo.io) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme and is hosted on [Cloudflare](https://www.netlify.com).
+This website was created with the static site generator [Hugo](https://gohugo.io) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme and is hosted on [Cloudflare](https://www.cloudflare.com/).
 
 Additionally, this website uses [utterances](https://utteranc.es/) for comments. giscus uses cookies: Please see [utterances' Privacy Policy](https://github.com/utterance/utterances/blob/master/PRIVACY-POLICY.md) for more information.
 
