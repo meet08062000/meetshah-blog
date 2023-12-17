@@ -2,6 +2,7 @@ baseURL: "https://meetshah.net/"
 languageCode: en-us
 title: Meet Shah
 theme: PaperMod
+enableEmoji: true
 
 menu:
   main:

@@ -28,4 +28,4 @@ If you try to think, there are thousands of examples of you as well as people ar
   
 Humans are emotional and it is very important to manage these emotions well to live a good life. Be it financially, physically or mentally. So how do we manage these emotions? The answer is self introspection. So that's what we will try to figure out in this blog series. I am no expert at it, and I am as vulnerable as you are to these irrational thoughts, but nothing wrong to together try to improve right?  
   
-Stay tuned for the next blog where we explore the mysteries that lie in the universe within us, our mind. Until next time, remember, it is natural to be a hypocrite!  
+Stay tuned for the [next blog](/posts/you-are-a-hypocrite-2) where we explore the mysteries that lie in the universe within us, our mind. Until next time, remember, it is natural to be a hypocrite!  
