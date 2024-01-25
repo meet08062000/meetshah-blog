@@ -3,6 +3,7 @@ languageCode: en-us
 title: Meet Shah
 theme: PaperMod
 enableEmoji: true
+enableRobotsTXT: true
 
 menu:
   main:
