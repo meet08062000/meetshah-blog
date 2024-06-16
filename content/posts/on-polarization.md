@@ -1,6 +1,6 @@
 ---
 title: "On Polarization"
-date: 2024-05-11T08:58:10+05:30
+date: 2024-06-16T08:58:10+05:30
 draft: false
 tags: ["psychology","life"]
 categories: ["Understand yourself"]
