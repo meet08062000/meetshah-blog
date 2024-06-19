@@ -51,11 +51,11 @@ params:
     Content: Welcome to my blog!
   socialIcons:
     - name: instagram
-      url: "https://www.instagram.com/meet8june/"
+      url: "https://www.instagram.com/meetshah_blog/"
+    - name: x
+      url: "https://twitter.com/meetshah_net"
     - name: linkedin
       url: "https://www.linkedin.com/in/meet-shah-3762011a0/"
-    - name: github
-      url: "https://github.com/meet08062000"
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowShareButtons: true
