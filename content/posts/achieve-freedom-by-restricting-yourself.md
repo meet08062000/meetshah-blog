@@ -1,0 +1,27 @@
+---
+title: "Achieve freedom by restricting yourself"
+date: 2024-08-11T08:58:10+05:30
+draft: false
+tags: ["philosophy","freedom"]
+categories: ["Thought provoking"]
+---
+
+Today's topic is controversial and it is something I have been thinking about lately. Can you achieve freedom by restricting yourself? Seems counter-intuitive, doesn't it? Let me explain.  
+
+Long back, our ancestors, the hunter gatherers, had a lot of freedom. They used to wander around in forests to collect food. They did not stay at one place for long. Then time passed by, we learned agriculture and we had to restrict ourselves to one location. We lost freedom of continuously moving from one location to another because our lifestyle demanded that we stay in one location. We restricted ourselves to a single location and we freed ourselves from the worry of "will I have to stay hungry tonight?". You might be starting to get the point here.  
+
+I feel that something very similar applies to a lot of places in life. Restrictions, I feel, are not always bad, they liberate us. This might seem very counter intuitive. But let me give you some examples. I was recently watching [this video](https://youtu.be/NR84CKR7XHw?feature=shared) from Mark Manson's youtube channel and he made a great point in the video. He said that once he was committed to his wife, he did not have to worry about "Oh my shirt has this stain, what will that girl think about me!". The restriction to stay committed with a single person freed him from the constant worry of finding a potential partner.  
+
+Now I want to make a clear distinction here. There are 2 kinds of restrictions. The first one is where someone else has imposed the restriction on you, you also want to impose that restriction on yourself but you (at least the some part of your brain) don't like that restriction. The 2nd type of restriction is where someone imposes a restriction on you, and you are totally fine with it, even on an individual level, all the parts of your brain totally agree to it.  
+
+A great example of the 1st type of restriction would be (for a lot of people) the restriction to drink or smoke. For a lot of people my age especially in India, parents are totally against drinking and smoking. In this case a person who is in their teenage or young adulthood feel the urge to drink or smoke. If they are very religious, they say this is a sin and restrict themselves from drinking, but there is a part of them telling them, "Nothing happens if you try once, see how much these people are enjoying themselves!".  
+
+An example of the 2nd type of restriction would be the restriction to kill another person (at least under normal circumstances for a regular citizen). As ridiculous as it may sound, this is also a restriction. You don't have the freedom to go around killing anybody you find in the way. But there is a distinction here with the first kind of restriction. You don't have an urge to kill somebody. You have completely and willingly accepted and imposed that restriction on yourself, not just because of the fear of the consequences.  
+
+The kind of restriction I am talking about in this blog, is the second one. A lot of people ask me, how come you did not taste alcohol even once? You don't see how much people enjoy? My very simple answer to that is, I have no urge to drink. Many people who come from a family where drinking is restricted have something like this going on in their mind when they are trying to drink for the first time, "Should I try? They seem to be enjoying themselves a lot, but what if my parents find out? Drinking is not good for health. I should not drink. But nothing happens if I try just one sip". These kind of people are restricted, but not really free from the negative thoughts that come from either drinking or not drinking. For me, by restricting myself from drinking, I am free from worrying about all of these thoughts and even more, like "what will my friends think if I don't drink, they will treat me like an outcast". The 2nd kind of restriction is more like, "I don't care about drinking, or people's opinions on whether I am drinking or not drinking". Now, a lot of people will get me wrong here. I am not trying to be a moral police, drinking or not drinking is an individual choice. I am just trying to give an example to prove my point.  
+
+I have realized that I have been applying this 2nd kind of restriction in many small places of my life. For example, whenever I go shopping with my mother, I just leave my shopping completely on her. I trust her that whatever she will buy will be good for me. In general, I do this for many topics I don't care about, shopping being one of them.  
+
+With this logic, the "restricting yourself from bodily pleasures to achieve liberation" logic that many religions give does not seem that illogical (although it still feels somewhat far fetched to me). Freedom is a very complex and a heavily debated topic in philosophy. A lot of philosophers have thought a lot on the concept of freedom. Thinking about all this makes me a lot more curious to read those works from all those great philosophers.  
+
+Let me leave you with this question. What is your definition of freedom? Do you think restrictions (type 2) can lead to freedom?

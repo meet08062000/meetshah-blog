@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Thought Provoking on Meet Shah</title>
+    <link>http://localhost:1313/categories/thought-provoking/</link>
+    <description>Recent content in Thought Provoking on Meet Shah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Aug 2024 08:58:10 +0530</lastBuildDate><atom:link href="http://localhost:1313/categories/thought-provoking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Achieve freedom by restricting yourself?!</title>
+      <link>http://localhost:1313/posts/achieve-freedom-by-restricting-yourself/</link>
+      <pubDate>Sun, 11 Aug 2024 08:58:10 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/achieve-freedom-by-restricting-yourself/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

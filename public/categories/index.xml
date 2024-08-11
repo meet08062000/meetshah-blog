@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Meet Shah</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Meet Shah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jul 2024 08:58:10 +0530</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understand Yourself</title>
+      <link>http://localhost:1313/categories/understand-yourself/</link>
+      <pubDate>Sun, 07 Jul 2024 08:58:10 +0530</pubDate>
+      
+      <guid>http://localhost:1313/categories/understand-yourself/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breaking Stereotypes</title>
+      <link>http://localhost:1313/categories/breaking-stereotypes/</link>
+      <pubDate>Sat, 09 Mar 2024 08:58:10 +0530</pubDate>
+      
+      <guid>http://localhost:1313/categories/breaking-stereotypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You Are a Hypocrite</title>
+      <link>http://localhost:1313/categories/you-are-a-hypocrite/</link>
+      <pubDate>Sat, 13 Jan 2024 08:58:10 +0530</pubDate>
+      
+      <guid>http://localhost:1313/categories/you-are-a-hypocrite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Secret to Never Ending Happiness</title>
+      <link>http://localhost:1313/categories/the-secret-to-never-ending-happiness/</link>
+      <pubDate>Sun, 16 Jul 2023 08:58:10 +0530</pubDate>
+      
+      <guid>http://localhost:1313/categories/the-secret-to-never-ending-happiness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You Are Wrong About Religion</title>
+      <link>http://localhost:1313/categories/you-are-wrong-about-religion/</link>
+      <pubDate>Sun, 30 Apr 2023 08:58:10 +0530</pubDate>
+      
+      <guid>http://localhost:1313/categories/you-are-wrong-about-religion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

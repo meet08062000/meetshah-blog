@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reflection on Meet Shah</title>
+    <link>http://localhost:1313/tags/reflection/</link>
+    <description>Recent content in Reflection on Meet Shah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Apr 2024 08:58:10 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The solution to most of your problems!</title>
+      <link>http://localhost:1313/posts/the-solution-to-most-of-your-problems/</link>
+      <pubDate>Sat, 06 Apr 2024 08:58:10 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/the-solution-to-most-of-your-problems/</guid>
+      <description>In the part 5 of my blog series &amp;ldquo;The Secret to Never Ending Happiness&amp;rdquo;, I had ended by saying that most of the people don&amp;rsquo;t even know what are the factors that affect their state of mind. We can identify those factors by self evaluation or introspection. That is precisely what we are going to discuss in today&amp;rsquo;s blog. So what is introspection? I would define introspection as thinking deeply about your own thoughts, ideas and feelings and examining them.</description>
+    </item>
+    
+  </channel>
+</rss>
