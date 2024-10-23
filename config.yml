@@ -52,7 +52,7 @@ params:
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/meetshah_blog/"
-    - name: x
+    - name: twitter
       url: "https://twitter.com/meetshah_net"
     - name: linkedin
       url: "https://www.linkedin.com/in/meet-shah-3762011a0/"
