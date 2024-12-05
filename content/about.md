@@ -21,3 +21,6 @@ LinkedIn - [https://www.linkedin.com/in/meet-shah-3762011a0/](https://www.linked
 ## Support
 
 Buy me a coffee - [https://buymeacoffee.com/meetpshah](https://buymeacoffee.com/meetpshah)  
+### Books I like/I am reading currently (Affiliate links)
+[Problems of philosophy by Bertrand Russell](https://amzn.to/4injwD6)  
+[Sapiens by Yuval Noah Harari](https://amzn.to/3D1eR9L)  
