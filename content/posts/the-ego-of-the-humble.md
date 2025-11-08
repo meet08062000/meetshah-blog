@@ -5,8 +5,8 @@ draft: false
 tags: ["ego","humility","psychology"]
 categories: ["Understand yourself"]
 ---
->The proud man can learn humility... but he will be proud of it.
->- G.K. Chesterton
+>The proud man can learn humility... but he will be proud of it.  
+>-G.K. Chesterton
 
 Being humble is almost always hailed as a great virtue. Almost all religions, philosophers, thought leaders, successful people promote humility, and rightly so. But I want to take a different perspective today. The question I want to ask is, by being humble, are we really being humble? Or is it just a camouflage for our ego? This might sound ridiculous, but hear me out and I might be able to change the way you look at humility.  
 
